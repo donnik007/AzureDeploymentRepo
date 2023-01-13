@@ -1,4 +1,4 @@
-# AzureDeploymentRepo with bicep
+# AzureDeploymentRepo with biceps
 Repo to work with Github Actions to Deploy Bicep into Azure - Learning
 
 ## 1. Preparation
